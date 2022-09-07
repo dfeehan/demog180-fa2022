@@ -29,3 +29,5 @@ tags
 
 # Ethan's test files
 /dist/test/
+
+.OTTER*
